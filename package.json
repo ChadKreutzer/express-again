@@ -1,0 +1,30 @@
+{
+  "name": "express-again",
+  "version": "1.0.0",
+  "description": "A toy project to help me grok Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadKreutzer/express-again.git"
+  },
+  "keywords": [
+    "toy",
+    "learn",
+    "express",
+    "grok",
+    "gulp",
+    "react"
+  ],
+  "author": "Chad Kreutzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChadKreutzer/express-again/issues"
+  },
+  "homepage": "https://github.com/ChadKreutzer/express-again#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
